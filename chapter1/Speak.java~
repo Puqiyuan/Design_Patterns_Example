@@ -1,0 +1,12 @@
+/*
+  This file is a concrete implemention of how the duck quack, Sqeak that the one way
+  of quack behaviors.
+ */
+
+public class Sqeak implements QuackBehavior
+{
+    public void quack()
+    {
+	System.out.println("Squeak");
+    }
+}
