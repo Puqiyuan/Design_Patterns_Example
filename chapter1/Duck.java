@@ -1,6 +1,6 @@
 /*
   This file create a class of Duck. It's abstract class, because we just abstrct some common features
-  of all Ducks. The features includning fly behavior, quack behavior.
+  of all Ducks. The features includning fly behaviors, quack behaviors.
  */
 
 
